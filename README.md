@@ -1,7 +1,8 @@
 <p align="center">
-    <img style="border-radius: 100px" width="180" height="180" src="https://avatars2.githubusercontent.com/u/45319920?s=460&u=d36e049f6f5658c9439330560160db149ad16052&v=4">
+    <img style="border-radius: 100px" width="180" height="180" src="images/D3VSJ.png">
 </p>
 
+<p align="center" style="font-size: 2em">Hi there! I'm D3VSJ.<p>
 <div align="center">
 
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
