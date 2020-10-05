@@ -2,7 +2,7 @@
     <img style="border-radius: 100px" width="180" height="180" src="images/D3VSJ.png">
 </p>
 
-<p align="center" style="font-size: 2em">Hi there! I'm D3VSJ.<p>
+<p align="center" style="font-size: 32px;">Hi there! I'm D3VSJ.<p>
 <div align="center">
 
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
