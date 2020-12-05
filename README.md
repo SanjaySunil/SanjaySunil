@@ -4,8 +4,6 @@
 <h1 align="center">D3VSJ</h1>
 <div align="center">
 
-## Contact 
-
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
 Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
 Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
