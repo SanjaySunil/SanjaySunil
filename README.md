@@ -12,7 +12,7 @@ Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 </div>
 -->
 
-**Hey!** I'm a 14yr old student developer and computer enthusiast learning new technologies and contributing to the open-source community.
+**Hey!** I'm 14, a student developer and computer enthusiast learning new technologies and contributing to the open-source community.
 
 -----
 
