@@ -24,8 +24,6 @@ As an active user on GitHub, I also spend my free time contributing to the open-
 -----
 <div align="center">
 
-<h1>Contact</h1>
-
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
 Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
 Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
