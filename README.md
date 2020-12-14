@@ -18,8 +18,7 @@ As an active user on GitHub, I also spend my free time contributing to the open-
 
 -----
 
-- **Founder of [BetterDiscordPanel]
-(https://github.com/D3VSJ/BetterDiscordPanel)** - a new messaging panel designed to allow users to message inside of a discord bot and view details and insights.
+- **Founder of [BetterDiscordPanel](https://github.com/D3VSJ/BetterDiscordPanel)** - a new messaging panel designed to allow users to message inside of a discord bot and view details and insights.
 
 -----
 <div align="center">
