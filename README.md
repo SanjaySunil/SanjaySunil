@@ -12,7 +12,7 @@ Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 </div>
 -->
 
-**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. I also spend my free time contributing to the open-source community. 
+**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. I love creating software, solving problems, exploring new technologies spending my free time contributing to the open-source community. 
 
 * 📚 I’m currently learning React.js!
 
