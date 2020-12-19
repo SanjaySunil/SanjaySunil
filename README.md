@@ -12,7 +12,9 @@ Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 </div>
 -->
 
-**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. Some technologies I enjoy working with include React, Node and Firebase. I love creating software, solving problems, exploring new technologies and spending my free time contributing to the open-source community. You can contact me via Discord or Email if you have any queries!
+**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. Some technologies I enjoy working with include React, Node and Firebase. I love creating software, solving problems, exploring new technologies and spending my free time contributing to the open-source community. 
+
+Contact me via Discord or Email if you have any queries!
 
 * 📚 I’m currently learning React.js!
 
