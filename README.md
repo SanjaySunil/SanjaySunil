@@ -1,17 +1,3 @@
-<!--
-<p align="center"> 
-    <img style="border-radius: 100px" width="128" height="128" src="images/D3VSJ.png">
-</p>
-<h1 align="center">D3VSJ</h1>
-<div align="center">
-
-Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
-
-</div>
--->
-
 **Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. Some technologies I enjoy working with include React, Node and Firebase. I love creating software, solving problems, exploring new technologies and spending my free time contributing to the open-source community. 
 
 Contact me via Discord or Email if you have any queries!
