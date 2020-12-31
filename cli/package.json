@@ -1,0 +1,17 @@
+{
+  "name": "d3vsj",
+  "version": "1.0.0",
+  "description": "Me in a CLI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "D3VSJ",
+  "license": "MIT",
+  "bin": {
+    "sanjaysunil": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
