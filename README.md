@@ -1,4 +1,4 @@
-**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. Some technologies I enjoy working with include React, Node and Firebase. I love creating software, solving problems, exploring new technologies and spending my free time contributing to the open-source community. 
+**Hey!** I'm a 14y/o student developer studying Computer Science and specializing in full-stack development. Some technologies I enjoy working with include React, Node and Firebase. I love creating software, exploring new technologies and spending my free time contributing to the open-source community. 
 
 Contact me via Discord or Email if you have any queries!
 
