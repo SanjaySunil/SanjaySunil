@@ -12,7 +12,7 @@ Contact me via Discord or Email if you have any queries!
 <div align="center">
 
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
+Email : [sanjay-sunil@outlook.com](mailto:sanjay-sunil@outlook.com) &nbsp;&middot;&nbsp;
 Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 
 <img src="https://komarev.com/ghpvc/?username=d3vsj&label=Profile%20views&color=0e75b6&style=flat" alt="d3vsj" /> 
