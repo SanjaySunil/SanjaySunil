@@ -2,8 +2,6 @@
 
 Contact me via Discord or Email if you have any queries!
 
-* 📚 I’m currently learning React.js!
-
 -----
 
 - **Founder of [BetterDiscordPanel](https://github.com/D3VSJ/BetterDiscordPanel)** - a new messaging panel designed to allow users to message inside of a discord bot and view bot information. I started this project back in June 2020, and have used it to advance my knowledge in languages.
