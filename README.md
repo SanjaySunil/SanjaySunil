@@ -27,10 +27,11 @@ export default () => ({
   website: "https://sanjaysunil.me/",
   technologies: {
     languages: ["HTML", "CSS", "JavaScript", "Python", "Bash", "YAML"],
-    web: ["Node.js", "React", "Express.js", "jQuery", "Babel", "Bootstrap"],
+    web: ["Node.js", "React", "Express.js", "jQuery", "Electron", "Babel", "Bootstrap"],
     databases: ["MongoDB", "Firebase", "SQLite"],
     toolchains: ["NPM", "Yarn"],
     devOps: ["Git"],
+    hosting: ["Netlify", "Firebase", "Heroku"]
     operatingSystems: ["GNU/Linux", "Windows"],
     iot: ["Arduino", "Raspberry Pi"],
     editors: ["VSCode"],
