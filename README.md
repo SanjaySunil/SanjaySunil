@@ -31,7 +31,7 @@ export default () => ({
     databases: ["MongoDB", "Firebase", "SQLite"],
     toolchains: ["NPM", "Yarn"],
     devOps: ["Git"],
-    hosting: ["Netlify", "Firebase", "Heroku"]
+    hosting: ["Netlify", "Firebase", "Heroku"],
     operatingSystems: ["GNU/Linux", "Windows"],
     iot: ["Arduino", "Raspberry Pi"],
     editors: ["VSCode"],
