@@ -18,7 +18,7 @@ export default () => ({
   website: "https://sanjaysunil.me/",
   technologies: {
     languages: ["HTML", "CSS", "JavaScript", "Python", "Bash", "PowerShell", "YAML"],
-    web: ["Node.js", "React", "Express.js", "jQuery", "Electron", "Babel", "Bootstrap",
+    web: ["Node.js", "React", "Express.js", "jQuery", "Electron", "Babel", "Bootstrap"],
     databases: ["MongoDB", "Firebase", "SQLite"],
     toolchains: ["NPM", "Yarn"],
     devOps: ["Git"],
