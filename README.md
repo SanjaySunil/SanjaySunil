@@ -15,6 +15,8 @@ Contact me via Discord or Email if you have any queries!
 ```js
 export default () => ({
   name: "Sanjay Sunil",
+  email: "sanjaysunil@protonmail.com",
+  discord: "D3VSJ#3158",
   website: "https://sanjaysunil.me/",
   technologies: {
     languages: ["HTML", "CSS", "JavaScript", "Python", "Bash", "PowerShell", "YAML"],
@@ -32,10 +34,6 @@ export default () => ({
 
 <div align="center">
 
-Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [sanjaysunil@protonmail.com](mailto:sanjaysunil@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
-
-<img src="https://komarev.com/ghpvc/?username=d3vsj&label=Profile%20views&color=0e75b6&style=flat" alt="d3vsj" />
+<img src="https://komarev.com/ghpvc/?username=d3vsj&label=Profile%20views&color=0e75b6&style=flat" alt="viewcount_for_sanjaysunil" />
 
 </div>
