@@ -33,9 +33,8 @@ export default () => ({
   },
 });
 ```
-
+<!--
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=d3vsj&label=Profile%20views&color=0e75b6&style=flat" alt="viewcount_for_sanjaysunil" />
-
 </div>
+-->
