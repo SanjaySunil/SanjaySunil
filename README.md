@@ -23,9 +23,9 @@ export default () => ({
 		backEnd: {
 			js: ["Node", "Express"],
 		},
-    desktop: ["Electron"]
+		desktop: ["Electron"],
 		databases: ["Firebase", "MongoDB"],
-    devOps: ["Git"],
+		devOps: ["Git"],
 		toolchains: ["NPM", "Yarn"],
 		hosting: ["Netlify", "Firebase", "Heroku"],
 		operatingSystems: ["Windows", "GNU/Linux"],
