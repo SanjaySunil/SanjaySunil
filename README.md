@@ -26,16 +26,17 @@ export default () => ({
     desktop: ["Electron"],
     databases: ["Firebase", "MongoDB"],
     devOps: ["Git", "GitHub Actions"],
-    architecture: [
-      "Progressive Web Applications",
-      "Single Page Applications",
-      "Microservices",
-    ],
+
     toolchains: ["NPM", "Yarn"],
     hosting: ["Netlify", "Firebase", "Heroku"],
     operatingSystems: ["Windows", "GNU/Linux"],
     iot: ["Raspberry Pi", "Arduino"],
     editors: ["VSCode"],
   },
+  architecture: [
+    "Progressive Web Applications",
+    "Single Page Applications",
+    "Microservices",
+  ],
 });
 ```
