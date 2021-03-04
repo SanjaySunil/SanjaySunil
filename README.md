@@ -18,7 +18,7 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["Bootstrap", "MaterialUI"],
+      css: ["Bootstrap", "Material-UI"],
     },
     backEnd: {
       js: ["Node", "Express"],
@@ -29,7 +29,7 @@ export default () => ({
     toolchains: ["NPM", "Yarn"],
     hosting: ["Netlify", "Firebase", "Heroku"],
     operatingSystems: ["Windows", "GNU/Linux"],
-    iot: ["Arduino", "Raspberry Pi"],
+    iot: ["Raspberry Pi", "Arduino"],
     editors: ["VSCode"],
   },
 });
