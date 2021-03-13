@@ -14,7 +14,7 @@ export default () => ({
   email: "sanjaysunil@protonmail.com",
   discord: "D3VSJ#3158",
   website: "https://sanjaysunil.me/",
-  code: [HTML, CSS, JavaScript, Python, Bash],
+  code: [HTML, CSS, JavaScript, Python],
   technologies: {
     frontEnd: {
       js: ["React"],
