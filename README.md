@@ -18,7 +18,7 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["Bootstrap", "Material"],
+      css: ["Bootstrap", "Material-UI"],
     },
     backEnd: {
       js: ["Node", "Express"],
