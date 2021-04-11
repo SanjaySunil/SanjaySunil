@@ -27,7 +27,7 @@ export default () => ({
     databases: ["Firebase", "MongoDB"],
     devOps: ["Git", "GitHub Actions"],
 
-    toolchains: ["NPM", "Yarn", "Choco"],
+    toolchains: ["NPM", "Yarn", "Chocolatey"],
     hosting: ["Netlify", "Firebase", "Heroku"],
     operatingSystems: ["Windows", "GNU/Linux"],
     iot: ["Raspberry Pi", "Arduino"],
