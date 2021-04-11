@@ -33,10 +33,5 @@ export default () => ({
     iot: ["Raspberry Pi", "Arduino"],
     editors: ["VSCode"],
   },
-  architecture: [
-    "Progressive Web Applications",
-    "Single Page Applications",
-    "Microservices",
-  ],
 });
 ```
