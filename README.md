@@ -4,7 +4,6 @@ Sanjay Sunil
 ============
 
 Email: sanjaysunil@protonmail.com
-Discord: D3VSJ#3158
 Website: https://sanjaysunil.me/
 -->
 
@@ -12,7 +11,6 @@ Website: https://sanjaysunil.me/
 export default () => ({
   name: "Sanjay Sunil",
   email: "sanjaysunil@protonmail.com",
-  discord: "D3VSJ#3158",
   website: "https://sanjaysunil.me/",
   code: [HTML, CSS, JavaScript, TypeScript, Python],
   technologies: {
