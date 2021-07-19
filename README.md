@@ -24,7 +24,6 @@ export default () => ({
     desktop: ["Electron"],
     databases: ["Firebase", "MongoDB"],
     devOps: ["Git", "GitHub Actions"],
-
     toolchains: ["NPM", "Yarn", "Chocolatey"],
     hosting: ["Netlify", "Firebase", "Heroku"],
     operatingSystems: ["Windows", "GNU/Linux"],
