@@ -11,9 +11,9 @@ Website: https://sanjaysunil.github.io/
 import Profile from 'SanjaySunil';
 
 class Bio extends Profile {
-  name     = 'Sanjay Sunil';
-  email    = 'sanjaysunil@protonmail.com';
-  website  = 'https://sanjaysunil.github.io/';
+  name    = 'Sanjay Sunil';
+  email   = 'sanjaysunil@protonmail.com';
+  website = 'https://sanjaysunil.github.io/';
 }
 
 class Skills extends Profile {
