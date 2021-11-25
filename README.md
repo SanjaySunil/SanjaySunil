@@ -18,7 +18,6 @@ class Bio extends Profile {
 
 class Skills extends Profile {
   languages        = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Python'];
-  databases        = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frontEnd         = ['React'];
   backEnd          = ['Node', 'Express'];
   desktop          = ['Electron'];
