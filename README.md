@@ -4,7 +4,7 @@ Sanjay Sunil
 ============
 
 Email: sanjaysunil@protonmail.com
-Website: https://sanjaysunil.github.io/
+Website: https://sanjaysunil.net/
 -->
 
 ```js
@@ -13,7 +13,7 @@ import Profile from 'SanjaySunil';
 class Bio extends Profile {
   name    = 'Sanjay Sunil';
   email   = 'sanjaysunil@protonmail.com';
-  website = 'https://sanjaysunil.github.io/';
+  website = 'https://sanjaysunil.net/';
 }
 
 class Skills extends Profile {
