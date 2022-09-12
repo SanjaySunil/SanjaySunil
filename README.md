@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="carbon.png" width="75%">
+  <img src="carbon.png">
 </div>
