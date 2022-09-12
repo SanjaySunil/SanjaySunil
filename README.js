@@ -7,15 +7,15 @@ class Bio extends Profile {
 }
 
 class Skills extends Profile {
-  languages = ["JavaScript", "TypeScript", "Python"];
-  frontend  = ["React", "Gatsby"];
-  backend   = ["Node, Express"];
-  desktop   = ["Electron"];
-  databases = ["Firebase", "MongoDB"];
-  devOps    = ["Git", "GitHub Actions"];
-  toolchains = ["npm", "Yarn", "Chocolatey"];
-  hosting    = ["Netlify", "Firebase", "Heroku"];
+  languages        = ["JavaScript", "TypeScript", "Python"];
+  frontend         = ["React", "Gatsby"];
+  backend          = ["Node, Express"];
+  desktop          = ["Electron"];
+  databases        = ["Firebase", "MongoDB"];
+  devOps           = ["Git", "GitHub Actions"];
+  toolchains       = ["npm", "Yarn", "Chocolatey"];
+  hosting          = ["Netlify", "Firebase", "Heroku"];
   operatingSystems = ["Windows", "macOS", "GNU/Linux"];
-  iot = ["Raspberry Pi", "Arduino"];
-  editors = ["Visual Studio Code"];
+  iot              = ["Raspberry Pi", "Arduino"];
+  editors          = ["Visual Studio Code"];
 }
