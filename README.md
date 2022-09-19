@@ -10,7 +10,7 @@ class Bio extends Profile {
 class Skills extends Profile {
   languages        = ["JavaScript", "TypeScript", "Python"];
   frontend         = ["React", "Gatsby"];
-  backend          = ["Node, Express"];
+  backend          = ["Node", "Express"];
   desktop          = ["Electron"];
   databases        = ["Firebase", "MongoDB"];
   devOps           = ["Git", "GitHub Actions"];
