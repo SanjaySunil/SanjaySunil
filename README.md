@@ -3,12 +3,12 @@ import Profile from "SanjaySunil"
 
 class Bio extends Profile {
   name    = "Sanjay Sunil";
-  email   = "sanjaysunil@protonmail.com";
+  email   = "contact@sanjaysunil.net";
   website = "https://sanjaysunil.net";
 }
 
 class Skills extends Profile {
-  languages        = ["JavaScript", "TypeScript", "Python"];
+  languages        = ["JavaScript", "TypeScript", "Python", "C++"];
   frontend         = ["React", "Gatsby"];
   backend          = ["Node", "Express"];
   desktop          = ["Electron"];
