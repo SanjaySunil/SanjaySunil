@@ -1,23 +1,11 @@
-```js
-import Profile from "SanjaySunil"
+# Hi, I'm Sanjay 👋
 
-class Bio extends Profile {
-  name    = "Sanjay Sunil";
-  email   = "contact@sanjaysunil.net";
-  website = "https://sanjaysunil.net";
-}
+MEng Computer Science @ [University of Bristol](https://www.bristol.ac.uk/) & Full Stack Developer
 
-class Skills extends Profile {
-  languages        = ["JavaScript", "TypeScript", "Python", "C++"];
-  frontend         = ["React", "Gatsby", "Next.js"];
-  backend          = ["Node", "Express"];
-  desktop          = ["Electron"];
-  databases        = ["Firebase", "MongoDB"];
-  devOps           = ["Git", "GitHub Actions"];
-  toolchains       = ["npm", "Yarn", "Chocolatey"];
-  hosting          = ["Netlify", "Firebase", "Heroku"];
-  operatingSystems = ["macOS", "GNU/Linux", "Windows"];
-  iot              = ["Raspberry Pi", "Arduino"];
-  editors          = ["Visual Studio Code"];
-}
-```
+## About
+
+As a seasoned Full-Stack Web Application Developer with over 3 years of experience and a passion for crafting robust digital solutions, I have devoted my career to achieving excellence in software development. I specialize in MERN/JAM stack technologies, delivering scalable applications across diverse sectors including healthcare, surveillance, energy, military, robotics, manufacturing, and social media marketing. I excel at leading projects from inception to successful deployment, optimizing performance through continuous integration and delivery practices.
+
+## Contact
+
+For business and project inquiries/solutions, contact me at contact@sanjaysunil.com.
