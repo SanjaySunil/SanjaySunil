@@ -1,7 +1,3 @@
-Here's an improved version of your README that reflects both your technical expertise and a nod to Globium Designs' creative and client-centered approach:
-
----
-
 # Hi, I'm Sanjay 👋
 
 **MEng Computer Science** @ [University of Bristol](https://www.bristol.ac.uk/)
