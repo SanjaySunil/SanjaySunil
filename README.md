@@ -8,7 +8,7 @@ I am a passionate software engineer with over 3 years of experience in web and s
 
 ### Globium Designs
 
-In addition to my individual projects, I am part of [Globium Designs](https://globiumdesigns.com), a creative agency that helps bring digital ideas to life. We specialize in bespoke web development, branding, and digital marketing, working with global brands to create innovative, impactful solutions.
+In addition to my individual projects, I am the Co-Founder of [Globium Designs](https://globiumdesigns.com), a creative agency that helps bring digital ideas to life. We specialize in bespoke web development, branding, and digital marketing, working with global brands to create innovative, impactful solutions.
 
 ## Get in Touch
 
