@@ -1,8 +1,8 @@
 # Hi, I'm Sanjay! 👋  
 MEng Computer Science @ University of Bristol
 
-## Globium Designs  
-Co-Founder of [AREHSOFT](https://arehsoft.com) – a creative agency that turns bold ideas into real products.  
+## Arehsoft  
+Co-Founder of [Arehsoft](https://arehsoft.com) – a creative agency that turns bold ideas into real products.  
 We build **MVPs**, custom **web experiences**, and strategic **brand identities** for startups and global brands.
 
 ## Get in Touch  
