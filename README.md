@@ -2,7 +2,7 @@
 MEng Computer Science @ University of Bristol  
 
 ## AREHSOFT  
-Co-Founder of [AREHSOFT](https://arehsoft.com) — a software company that helps founders and teams turn ideas into real, production-ready products.  
+Co-Founder of [AREHSOFT](https://arehsoft.com), a software company that helps founders and teams turn ideas into real, production-ready products.  
 We build **MVPs**, **custom software**, and **automation systems** that help startups scale faster and work smarter.  
 
 ## Get in Touch  
